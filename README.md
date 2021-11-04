@@ -1,2 +1,43 @@
-# todo_list
-A todo list that allows you to add and delete items as well as search for items on a list.
+ ![picture](./assets/images/coming_soon.jpeg)
+ 
+# Todo List
+
+
+## Table Of Contents:
+- [Description](#Description)
+- [Deployment](#Deployment)
+- [Installation](#Installation)
+- [License](#License)
+
+
+## Description
+
+This site will allow you to once again see my use of the bootstrap framework which allows for a responsive front-end. On the JavaScript, you will see the use of template literals, a number of methods such as preventDefault(), trim(), remove(), and filter() so as to achieve the various desired results. You will also notice the DOM manipulation. 
+
+## Deployment: 
+
+GitHub Repo: https://github.com/al-moreno/todo_list
+
+GitHub Pages: https://al-moreno.github.io/todo_list/
+
+![picture](1.png)
+![picture](2.png)
+
+
+## Installation:
+1.  No installation if needed 
+2.  You may view the code through access of GitHub, link provided above.
+3.  You may view a funtioning, tested site through GitHub Pages, link provided above. 
+
+
+## License
+MIT License
+
+Copyright (c) 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ -->
