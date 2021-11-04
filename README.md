@@ -1,4 +1,4 @@
- ![picture](./assets/images/coming_soon.jpeg)
+
  
 # Todo List
 
